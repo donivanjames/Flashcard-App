@@ -1,11 +1,20 @@
 # Flash-Card-Study-App
-
 ![Flashcard 1](https://user-images.githubusercontent.com/76602007/192024812-751a2425-e400-440d-8c4c-2ad4184163bb.png)
-## Brief Description
-An app that allows you to create decks on any topic to study
 
+## Description
+An app made completly with React and Node that allows you to create decks of flashcards to study
+<br><br>
+
+## Functionality
+
+Allows you to create decks and cards within those decks for specific topics <br><br>
+You can flip cards over to quiz yourself  <br><br>
+Can delete cards and entire decks through React Hooks and API calls
+
+![Screenshot 2022-09-23 132225](https://user-images.githubusercontent.com/76602007/192024865-c7355071-9d1b-4dc1-9683-581f18cc0be9.png)
+
+<br><br>
 ## Project SetUp 
-
 To run this project on your local machine you will have to: 
   1. Download files
   2. Run nmp install to install the project
@@ -16,15 +25,3 @@ To run this project on your local machine you will have to:
      - If you have some difficulty running npm start on Windows, try running the commands in seperate terminals
         1. npm run start:react
         2. npm run start:server
-
-## Functionality
-![Screenshot 2022-09-23 132225](https://user-images.githubusercontent.com/76602007/192024865-c7355071-9d1b-4dc1-9683-581f18cc0be9.png)
-
-Application Features:
-
-
-  1. Create a Deck for a specific topic
-  2. Create cards within a deck
-  3. Study a Deck by flipping through cards
-  4. Delete a specific card 
-  5. Delete an entire Deck
