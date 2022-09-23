@@ -24,4 +24,4 @@ To run this project on your local machine you will have to:
         2. A React application running on http://localhost:3000
 
 ## Technology
-React, Express, JavaScript, HTML, CSS, JSON, Node Package Manager, Jest
+React, JSX, JavaScript, HTML, CSS, JSON, Node Package Manager, Jest
