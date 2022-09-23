@@ -22,3 +22,6 @@ To run this project on your local machine you will have to:
      - Running npm start will start two servers concurrently: 
         1. An API server, powered by json-serve, running on http://localhost:8080
         2. A React application running on http://localhost:3000
+
+## Technology
+React, Express, JavaScript, HTML, CSS, JSON, Node Package Manager, Jest
